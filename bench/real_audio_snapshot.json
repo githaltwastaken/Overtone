@@ -16,16 +16,14 @@
       "engine": "precision"
     },
     "camisa-negra": {
-      "global_bpm": 194.0038,
+      "global_bpm": 194.0083,
       "section_bpms": [
-        194.0038,
-        387.9968,
-        193.999
+        194.0037,
+        388.0069,
+        194.0083
       ],
       "point_bpms": [
-        193.9984,
-        387.9968,
-        193.9984
+        194.0037
       ],
       "meter": "4/4",
       "meter_beats": 1,
