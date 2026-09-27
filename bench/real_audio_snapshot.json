@@ -1,0 +1,114 @@
+{
+  "_comment": "Real songs (bench/corpus_b.json tracks) that must keep analysing, never refused. Regenerate with: python bench/gates.py real-audio --update",
+  "bpm_eps": 0.01,
+  "tracks": {
+    "take-you-down": {
+      "global_bpm": 174.0147,
+      "section_bpms": [
+        43.2635,
+        174.0147
+      ],
+      "point_bpms": [
+        174.0147
+      ],
+      "meter": "4/4",
+      "meter_beats": 1,
+      "engine": "precision"
+    },
+    "camisa-negra": {
+      "global_bpm": 194.0038,
+      "section_bpms": [
+        194.0038,
+        387.9968,
+        193.999
+      ],
+      "point_bpms": [
+        193.9984,
+        387.9968,
+        193.9984
+      ],
+      "meter": "4/4",
+      "meter_beats": 1,
+      "engine": "precision"
+    },
+    "shinkou": {
+      "global_bpm": 189.9842,
+      "section_bpms": [
+        189.9842,
+        94.9795,
+        189.6906,
+        134.6586,
+        94.7834,
+        189.9927,
+        95.0323,
+        189.9676
+      ],
+      "point_bpms": [
+        189.9842
+      ],
+      "meter": "4/4",
+      "meter_beats": 1,
+      "engine": "precision"
+    },
+    "noble": {
+      "global_bpm": 164.1242,
+      "section_bpms": [
+        164.2125,
+        327.9752,
+        163.7804,
+        327.9306,
+        164.1242,
+        327.9358,
+        164.3313,
+        162.8848,
+        327.9399,
+        164.0873,
+        328.016,
+        163.9952,
+        328.3392,
+        163.9951,
+        328.3226,
+        322.3215
+      ],
+      "point_bpms": [
+        327.9752
+      ],
+      "meter": "4/4",
+      "meter_beats": 1,
+      "engine": "precision"
+    },
+    "palette": {
+      "global_bpm": 179.9629,
+      "section_bpms": [
+        179.9995,
+        89.9376,
+        114.5882,
+        179.9629,
+        89.7894,
+        120.892,
+        89.9704,
+        181.443,
+        89.9287,
+        179.9305
+      ],
+      "point_bpms": [
+        179.9995
+      ],
+      "meter": "4/4",
+      "meter_beats": 1,
+      "engine": "precision"
+    },
+    "calm-down-juliet": {
+      "global_bpm": 211.7651,
+      "section_bpms": [],
+      "point_bpms": [
+        212.5403,
+        209.3164,
+        211.4895
+      ],
+      "meter": "4/4",
+      "meter_beats": 4,
+      "engine": "legacy"
+    }
+  }
+}
