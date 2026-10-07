@@ -1,0 +1,2077 @@
+{
+ "folder_seed": 60,
+ "bar_points": 15.0,
+ "split_power_ratio": 1.5,
+ "halves": {
+  "tune": {
+   "rows": [
+    {
+     "folder": "2574123 Various Artists - Aimslop Pack 2",
+     "usable": true,
+     "file": "Various Artists - Aimslop Pack 2 (-Yumiko-) [Attention].osu",
+     "chorus_s": 51.0,
+     "kiai_s": 18.5,
+     "under_s": 18.5,
+     "duration_s": 68.7,
+     "precision": 0.363,
+     "chance": 0.2694
+    },
+    {
+     "folder": "2502832 Jessica Baio - he loves me, he loves me not (nightcore & cut ver)",
+     "usable": false,
+     "why": "no kiai in any difficulty"
+    },
+    {
+     "folder": "2084060 ONE OK ROCK - Prove (TV Size) [no video]",
+     "usable": true,
+     "file": "ONE OK ROCK - Prove (TV Size) (FreezingAnimenz) [Determination].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 30.1,
+     "under_s": 0.0,
+     "duration_s": 91.4,
+     "precision": null,
+     "chance": 0.3296
+    },
+    {
+     "folder": "2456657 Simon Curtis - Super Psycho Love (Cut Ver)",
+     "usable": true,
+     "file": "Simon Curtis - Super Psycho Love (Cut Ver.) (Aranel) [AKHATEN'S HARD].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 17.5,
+     "under_s": 0.0,
+     "duration_s": 92.4,
+     "precision": null,
+     "chance": 0.1889
+    },
+    {
+     "folder": "2353518 Ogura Yui - So _ Lucky (TV Size)",
+     "usable": true,
+     "file": "Ogura Yui - So  Lucky (TV Size) (Yuuma) [Harumi's Normal].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 21.8,
+     "under_s": 0.0,
+     "duration_s": 94.6,
+     "precision": null,
+     "chance": 0.2302
+    },
+    {
+     "folder": "878944 xi - Bad Elixir [no video]",
+     "usable": true,
+     "file": "xi - Bad Elixir (Cherry Blossom) [Another].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 45.7,
+     "under_s": 0.0,
+     "duration_s": 132.7,
+     "precision": null,
+     "chance": 0.3446
+    },
+    {
+     "folder": "831747 CHiCO with HoneyWorks - Watashi, Idol Sengen",
+     "usable": true,
+     "file": "CHiCO with HoneyWorks - Watashi, Idol Sengen (Sotarks) [Kokuhaku].osu",
+     "chorus_s": 96.5,
+     "kiai_s": 29.5,
+     "under_s": 29.5,
+     "duration_s": 117.9,
+     "precision": 0.3057,
+     "chance": 0.2503
+    },
+    {
+     "folder": "332082 Afilia Saga - Neptune_Sagashite [no video]",
+     "usable": true,
+     "file": "Afilia Saga - NeptuneSagashite (Gear) [Advanced].osu",
+     "chorus_s": 55.8,
+     "kiai_s": 24.8,
+     "under_s": 24.8,
+     "duration_s": 88.8,
+     "precision": 0.4446,
+     "chance": 0.2795
+    },
+    {
+     "folder": "1219599 KISIDA KYODAN & THE AKEBOSI ROCKETS - Tenkyou no Alderamin (TV Size)",
+     "usable": true,
+     "file": "KISIDA KYODAN & THE AKEBOSI ROCKETS - Tenkyou no Alderamin (TV Size) (SMOKELIND) [Basen's Normal].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 18.3,
+     "under_s": 0.0,
+     "duration_s": 96.6,
+     "precision": null,
+     "chance": 0.1892
+    },
+    {
+     "folder": "158023 UNDEAD CORPORATION - Everything will freeze",
+     "usable": true,
+     "file": "UNDEAD CORPORATION - Everything will freeze (Ekoro) [Extra].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 48.0,
+     "under_s": 0.0,
+     "duration_s": 197.7,
+     "precision": null,
+     "chance": 0.2428
+    },
+    {
+     "folder": "2231028 GOHOBI - Blouse (TV Size) [no video]",
+     "usable": true,
+     "file": "GOHOBI - Blouse (TV Size) (NYAN_KOT_NYAN) [Affection].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 29.8,
+     "under_s": 0.0,
+     "duration_s": 91.7,
+     "precision": null,
+     "chance": 0.3255
+    },
+    {
+     "folder": "2083844 Jonas Brothers - The Chosen One (TV Size) [no video]",
+     "usable": true,
+     "file": "Jonas Brothers - The Chosen One (TV Size) (AJT) [Aranel's Insane].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 13.3,
+     "under_s": 0.0,
+     "duration_s": 62.7,
+     "precision": null,
+     "chance": 0.2126
+    },
+    {
+     "folder": "564165 ke-ji feat Nanahira - Ange du Blanc Pur",
+     "usable": true,
+     "file": "ke-ji feat. Nanahira - Ange du Blanc Pur (BarkingMadDog) [absolute good memes].osu",
+     "chorus_s": 175.8,
+     "kiai_s": 76.5,
+     "under_s": 62.7,
+     "duration_s": 243.3,
+     "precision": 0.3569,
+     "chance": 0.3144
+    },
+    {
+     "folder": "1250387 Circle of Dust - Humanarchy (Cut Ver)",
+     "usable": true,
+     "file": "Circle of Dust - Humanarchy (Cut Ver.) (Riana) [Chaos].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 19.2,
+     "under_s": 0.0,
+     "duration_s": 139.4,
+     "precision": null,
+     "chance": 0.1377
+    },
+    {
+     "folder": "2382290 My Chemical Romance - Thank You for the Venom (2025 Mix)",
+     "usable": true,
+     "file": "My Chemical Romance - Thank You for the Venom (2025 Mix) (SupaV) [aly's Retribution].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 73.0,
+     "under_s": 0.0,
+     "duration_s": 221.2,
+     "precision": null,
+     "chance": 0.3303
+    },
+    {
+     "folder": "10435 Masayoshi Minoshima ft nomico - Bad Apple!! [no video]",
+     "usable": true,
+     "file": "Masayoshi Minoshima ft. nomico - Bad Apple!! (Ephemeral) [Extra].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 13.8,
+     "under_s": 0.0,
+     "duration_s": 219.2,
+     "precision": null,
+     "chance": 0.063
+    },
+    {
+     "folder": "656918 Demetori - Seijouki no Pierrot _ The MadPiero Laughs",
+     "usable": true,
+     "file": "Demetori - Seijouki no Pierrot ~ The MadPiero Laughs (jonathanlfj) [Extra Stage].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 81.8,
+     "under_s": 0.0,
+     "duration_s": 312.8,
+     "precision": null,
+     "chance": 0.2616
+    },
+    {
+     "folder": "2149578 Sakuragawa Megu feat Se-fukubu - Blooming Kiss! (Game Ver) [no video]",
+     "usable": true,
+     "file": "Sakuragawa Megu feat. Se-fukubu - Blooming Kiss! (Game Ver.) (tomatas95) [Ayesha's Koigokoro].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 28.2,
+     "under_s": 0.0,
+     "duration_s": 93.7,
+     "precision": null,
+     "chance": 0.3009
+    },
+    {
+     "folder": "1904321 Fujijo Seitokai Shikkou-bu - Best FriendS (TV Size) [no video]",
+     "usable": false,
+     "why": "no kiai in any difficulty"
+    },
+    {
+     "folder": "2570278 My Chemical Romance - It's Not a Fashion Statement, It's a Deathwish (2025 Remix)",
+     "usable": false,
+     "why": "no kiai in any difficulty"
+    },
+    {
+     "folder": "2047990 MYUKKE - Unknown Amnasia",
+     "usable": true,
+     "file": "MYUKKE. - Unknown Amnasia (captin1) [Aeril's Hard].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 21.3,
+     "under_s": 0.0,
+     "duration_s": 154.7,
+     "precision": null,
+     "chance": 0.1379
+    },
+    {
+     "folder": "971051 Poppin'Party - Cherry Bomb",
+     "usable": true,
+     "file": "Poppin'Party - Cherry Bomb (STaLeRGooD) [lit120's Extra].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 56.8,
+     "under_s": 0.0,
+     "duration_s": 106.2,
+     "precision": null,
+     "chance": 0.5354
+    },
+    {
+     "folder": "1259699 EMPiRE - PiERCE",
+     "usable": true,
+     "file": "Empire - PiERCE (kleber veneno) [Extra].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 108.8,
+     "under_s": 0.0,
+     "duration_s": 273.8,
+     "precision": null,
+     "chance": 0.3974
+    },
+    {
+     "folder": "1706221 Poppin'Party - Koko kara Saki wa Uta ni Naranai (TV Size) [no video]",
+     "usable": true,
+     "file": "Poppin'Party - Koko kara Saki wa Uta ni Naranai (TV Size) (Lami-) [DenYi's Hard].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 33.2,
+     "under_s": 0.0,
+     "duration_s": 90.1,
+     "precision": null,
+     "chance": 0.3681
+    },
+    {
+     "folder": "2557066 League Of Legends - Warriors (feat Imagine Dragons) (1)",
+     "usable": true,
+     "file": "League Of Legends - Warriors (feat. Imagine Dragons) (Vyassel) [TheShadow's Normal].osu",
+     "chorus_s": 138.4,
+     "kiai_s": 73.8,
+     "under_s": 73.3,
+     "duration_s": 170.4,
+     "precision": 0.5294,
+     "chance": 0.4333
+    },
+    {
+     "folder": "205309 Mind Vortex - Alive",
+     "usable": true,
+     "file": "Mind Vortex - Alive (Katty Pie) [Easy].osu",
+     "chorus_s": 94.0,
+     "kiai_s": 44.4,
+     "under_s": 44.4,
+     "duration_s": 180.5,
+     "precision": 0.4721,
+     "chance": 0.2459
+    },
+    {
+     "folder": "1103928 sasakureUK - Chimera feat Annabel [no video]",
+     "usable": true,
+     "file": "sasakure.UK - Chimera feat. Annabel (PandaHero) [Dubturt's Insane].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 0.4,
+     "under_s": 0.0,
+     "duration_s": 224.1,
+     "precision": null,
+     "chance": 0.0016
+    },
+    {
+     "folder": "2319267 DJ Fresh - Gold Dust (Cut Ver)",
+     "usable": true,
+     "file": "DJ Fresh - Gold Dust (Cut Ver.) (- Kali -) [California Gold Rush].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 18.6,
+     "under_s": 0.0,
+     "duration_s": 99.4,
+     "precision": null,
+     "chance": 0.1877
+    },
+    {
+     "folder": "2531693 Official HIGE DANdism - Same Blue (TV Size)",
+     "usable": false,
+     "why": "no kiai in any difficulty"
+    },
+    {
+     "folder": "2390519 DECO_27 - Ghost Rule (Cut Ver)",
+     "usable": true,
+     "file": "DECO27 - Ghost Rule (Cut Ver.) (EdgyKing) [Danilka's Extra].osu",
+     "chorus_s": 47.5,
+     "kiai_s": 18.0,
+     "under_s": 9.4,
+     "duration_s": 98.1,
+     "precision": 0.197,
+     "chance": 0.1836
+    },
+    {
+     "folder": "2481943 Hololive IDOL Project - Capture The Moment (Cut Ver)",
+     "usable": true,
+     "file": "Hololive IDOL Project - Capture The Moment (Cut Ver.) (serodose) [We Are One!].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 11.2,
+     "under_s": 0.0,
+     "duration_s": 118.2,
+     "precision": null,
+     "chance": 0.0944
+    },
+    {
+     "folder": "1381677 Kamiyama Yoh - Irokousui (TV Size)",
+     "usable": true,
+     "file": "Kamiyama Yoh - Irokousui (TV Size) (kanpakyin) [Easy].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 24.5,
+     "under_s": 0.0,
+     "duration_s": 89.6,
+     "precision": null,
+     "chance": 0.2737
+    },
+    {
+     "folder": "2331916 TrySail - adrenaline!!! (TV Size) [no video]",
+     "usable": true,
+     "file": "TrySail - adrenaline!!! (TV Size) (KeyWee) [Heto's Extra].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 33.1,
+     "under_s": 0.0,
+     "duration_s": 89.6,
+     "precision": null,
+     "chance": 0.3699
+    },
+    {
+     "folder": "1884234 Beta (CV_ Inori Minase) - Darling in the Night (TV Size)",
+     "usable": true,
+     "file": "Beta (CV Inori Minase) - Darling in the Night (TV Size) (Fuxi66) [Beta].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 20.6,
+     "under_s": 0.0,
+     "duration_s": 90.0,
+     "precision": null,
+     "chance": 0.2287
+    },
+    {
+     "folder": "2432555 Farhan feat GUMI - Dandelion",
+     "usable": false,
+     "why": "no kiai in any difficulty"
+    },
+    {
+     "folder": "2282701 Take Us To Vegas - For The Love Of The Game (Nightcore & Cut Ver)",
+     "usable": false,
+     "why": "no kiai in any difficulty"
+    },
+    {
+     "folder": "2259052 Bring Me the Horizon - Parasite Eve",
+     "usable": true,
+     "file": "Bring Me the Horizon - Parasite Eve (Roupus) [Infestation].osu",
+     "chorus_s": 254.3,
+     "kiai_s": 18.7,
+     "under_s": 18.7,
+     "duration_s": 291.8,
+     "precision": 0.0736,
+     "chance": 0.0642
+    },
+    {
+     "folder": "1819961 Steve Lacy - Bad Habit",
+     "usable": true,
+     "file": "Steve Lacy - Bad Habit (ZiMawdj) [Extra].osu",
+     "chorus_s": 195.0,
+     "kiai_s": 87.4,
+     "under_s": 86.0,
+     "duration_s": 242.6,
+     "precision": 0.4408,
+     "chance": 0.3604
+    },
+    {
+     "folder": "925999 Kato Megumi (CV_ Yasuno Kiyono) - M flat",
+     "usable": true,
+     "file": "Kato Megumi (CV Yasuno Kiyono) - M flat (- Matha -) [Agent_James' Insane].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 23.6,
+     "under_s": 0.0,
+     "duration_s": 109.7,
+     "precision": null,
+     "chance": 0.2153
+    },
+    {
+     "folder": "274035 DJ Fresh (feat Ellie Goulding) - Flashlight (Radio Edit)",
+     "usable": true,
+     "file": "DJ Fresh (feat. Ellie Goulding) - Flashlight (Radio Edit) (Frey) [Advanced].osu",
+     "chorus_s": 173.9,
+     "kiai_s": 30.2,
+     "under_s": 30.2,
+     "duration_s": 218.4,
+     "precision": 0.1735,
+     "chance": 0.1381
+    },
+    {
+     "folder": "903160 Nanamori-chu _ Goraku-bu - Yurishurashushushu (TV Size)",
+     "usable": true,
+     "file": "Nanamori-chu  Goraku-bu - Yurishurashushushu (TV Size) (Lunala) [H@ppy S@mmer V@c@tion!!!].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 23.7,
+     "under_s": 0.0,
+     "duration_s": 89.0,
+     "precision": null,
+     "chance": 0.2662
+    },
+    {
+     "folder": "476031 Aqours - Kimi no Kokoro wa Kagayaiteru kai",
+     "usable": true,
+     "file": "Aqours - Kimi no Kokoro wa Kagayaiteru kai (Momochikun) [Aqua].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 19.8,
+     "under_s": 0.0,
+     "duration_s": 121.9,
+     "precision": null,
+     "chance": 0.1622
+    },
+    {
+     "folder": "508998 Tokyo Machine - OKAY",
+     "usable": true,
+     "file": "Tokyo Machine - OKAY (handsome) [Master].osu",
+     "chorus_s": 153.5,
+     "kiai_s": 38.0,
+     "under_s": 38.0,
+     "duration_s": 187.1,
+     "precision": 0.2474,
+     "chance": 0.2029
+    },
+    {
+     "folder": "1541131 mary x jon-YAKITORY - Koko de Ikiteru",
+     "usable": true,
+     "file": "mary x jon-YAKITORY - Koko de Ikiteru (Amateurre) [Hinsvar's Hard].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 60.6,
+     "under_s": 0.0,
+     "duration_s": 202.7,
+     "precision": null,
+     "chance": 0.2992
+    },
+    {
+     "folder": "beatmap-639116182334943627-audio",
+     "usable": true,
+     "file": "Dizzy Sunfist - Decided (TV Size) (githalt) [WIP DIFF NAME].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 53.0,
+     "under_s": 0.0,
+     "duration_s": 91.5,
+     "precision": null,
+     "chance": 0.5797
+    },
+    {
+     "folder": "1598671 Air85 - I'm so excited (feat Bobby John) (Cut Ver)",
+     "usable": true,
+     "file": "Air85 - I'm so excited (feat. Bobby John) (Cut Ver.) (Sotarks) [Basen's Normal].osu",
+     "chorus_s": 98.5,
+     "kiai_s": 42.2,
+     "under_s": 42.1,
+     "duration_s": 152.7,
+     "precision": 0.4272,
+     "chance": 0.2764
+    },
+    {
+     "folder": "1182149 Yousei Teikoku - one",
+     "usable": true,
+     "file": "Yousei Teikoku - one (Lasse) [Despair].osu",
+     "chorus_s": 226.0,
+     "kiai_s": 80.1,
+     "under_s": 80.1,
+     "duration_s": 248.5,
+     "precision": 0.3542,
+     "chance": 0.3221
+    },
+    {
+     "folder": "1118549 Shoji Meguro & Lyn - Last Surprise -Scramble-",
+     "usable": true,
+     "file": "Shoji Meguro & Lyn - Last Surprise -Scramble- (Settia) [You'll never see it coming x1.1].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 69.6,
+     "under_s": 0.0,
+     "duration_s": 225.0,
+     "precision": null,
+     "chance": 0.3095
+    },
+    {
+     "folder": "1575739 The Kid LAROI, Justin Bieber - Stay",
+     "usable": true,
+     "file": "The Kid LAROI, Justin Bieber - Stay (Log Off Now) [Hard].osu",
+     "chorus_s": 101.0,
+     "kiai_s": 33.9,
+     "under_s": 33.9,
+     "duration_s": 141.9,
+     "precision": 0.3355,
+     "chance": 0.2388
+    },
+    {
+     "folder": "150649 cranky - X-Y-Z",
+     "usable": true,
+     "file": "cranky - X-Y-Z (Yoeri) [Easy].osu",
+     "chorus_s": 98.0,
+     "kiai_s": 26.5,
+     "under_s": 26.5,
+     "duration_s": 118.1,
+     "precision": 0.2702,
+     "chance": 0.2243
+    },
+    {
+     "folder": "2191426 Kano - Sukisuki Zecchoushou",
+     "usable": true,
+     "file": "Kano - Sukisuki Zecchoushou (KeyWee) [annabel's Normal].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 60.9,
+     "under_s": 0.0,
+     "duration_s": 216.8,
+     "precision": null,
+     "chance": 0.2809
+    },
+    {
+     "folder": "562907 Blarsa - Garden Party",
+     "usable": false,
+     "why": "no kiai in any difficulty"
+    },
+    {
+     "folder": "2612073 My Chemical Romance - It's Not a Fashion Statement, It's a Deathwish",
+     "usable": true,
+     "file": "My Chemical Romance - It's Not a Fashion Statement, It's a Deathwish (githalt) [Taking Back the Life You Stole].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 78.1,
+     "under_s": 0.0,
+     "duration_s": 210.9,
+     "precision": null,
+     "chance": 0.3702
+    },
+    {
+     "folder": "560047 dark cat - BANANA STREET",
+     "usable": true,
+     "file": "dark cat - BANANA STREET (Ora) [Firetruck's Easy].osu",
+     "chorus_s": 70.0,
+     "kiai_s": 24.2,
+     "under_s": 24.2,
+     "duration_s": 88.8,
+     "precision": 0.3451,
+     "chance": 0.272
+    },
+    {
+     "folder": "556274 Special Guest - Views",
+     "usable": true,
+     "file": "Special Guest - Views (squirrelpascals) [Hard].osu",
+     "chorus_s": 105.5,
+     "kiai_s": 50.5,
+     "under_s": 50.5,
+     "duration_s": 149.0,
+     "precision": 0.4785,
+     "chance": 0.3388
+    },
+    {
+     "folder": "21593 4minute - Hot Issue",
+     "usable": true,
+     "file": "4minute - Hot Issue (Wiinter) [cesc].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 29.1,
+     "under_s": 0.0,
+     "duration_s": 207.4,
+     "precision": null,
+     "chance": 0.1401
+    },
+    {
+     "folder": "348604 ONE OK ROCK - Mikansei Koukyoukyoku",
+     "usable": true,
+     "file": "ONE OK ROCK - Mikansei Koukyoukyoku (Saut) [Advanced].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 58.8,
+     "under_s": 0.0,
+     "duration_s": 208.1,
+     "precision": null,
+     "chance": 0.2824
+    },
+    {
+     "folder": "336414 Wagakki Band - Tengaku",
+     "usable": true,
+     "file": "Wagakki Band - Tengaku (Shiro) [Uncompressed Fury of a Raging Japanese God].osu",
+     "chorus_s": 275.4,
+     "kiai_s": 88.0,
+     "under_s": 88.0,
+     "duration_s": 307.9,
+     "precision": 0.3197,
+     "chance": 0.286
+    },
+    {
+     "folder": "80747 senya - Kasoku Suru Koi wa Dare mo Tomerarenai",
+     "usable": true,
+     "file": "senya - Kasoku Suru Koi wa Dare mo Tomerarenai (Scorpiour) [Gazel's Hard].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 68.3,
+     "under_s": 0.0,
+     "duration_s": 241.9,
+     "precision": null,
+     "chance": 0.2824
+    },
+    {
+     "folder": "1476007 Bullet for My Valentine - Waking the Demon",
+     "usable": true,
+     "file": "Bullet for My Valentine - Waking the Demon (D33MKA) [stay_with_me].osu",
+     "chorus_s": 182.5,
+     "kiai_s": 57.7,
+     "under_s": 56.9,
+     "duration_s": 219.0,
+     "precision": 0.3117,
+     "chance": 0.2635
+    },
+    {
+     "folder": "962562 Imperial Circus Dead Decadence - Uta",
+     "usable": true,
+     "file": "Imperial Circus Dead Decadence - Uta (deetz) [Collab].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 67.9,
+     "under_s": 0.0,
+     "duration_s": 542.6,
+     "precision": null,
+     "chance": 0.1251
+    },
+    {
+     "folder": "53834 Shimatani Hitomi - Angelus (TV Size) [no video]",
+     "usable": true,
+     "file": "Shimatani Hitomi - Angelus (TV Size) (Kei) [Hard].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 29.3,
+     "under_s": 0.0,
+     "duration_s": 129.0,
+     "precision": null,
+     "chance": 0.2272
+    },
+    {
+     "folder": "1116398 Foxeru - A Fool Moon Ronaldo",
+     "usable": true,
+     "file": "Foxeru - A Fool Moon Ronaldo (Kannes) [AAAAAAAAAAAAAAAA].osu",
+     "chorus_s": 28.5,
+     "kiai_s": 27.8,
+     "under_s": 27.2,
+     "duration_s": 56.8,
+     "precision": 0.9552,
+     "chance": 0.4898
+    },
+    {
+     "folder": "745388 Egor Nats - Ya zhenyus' na devochke iz anime",
+     "usable": true,
+     "file": "Egor Nats - Ya zhenyus' na devochke iz anime (XenjeS) [edgar's Insane].osu",
+     "chorus_s": 174.0,
+     "kiai_s": 45.8,
+     "under_s": 45.8,
+     "duration_s": 193.0,
+     "precision": 0.2631,
+     "chance": 0.2372
+    },
+    {
+     "folder": "2430126 Digital Sexy - Til Death (Nightcore & Cut Ver)",
+     "usable": true,
+     "file": "Digital Sexy - Til Death (Nightcore & Cut Ver.) (Kuki1537) [Losing It].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 20.2,
+     "under_s": 0.0,
+     "duration_s": 117.3,
+     "precision": null,
+     "chance": 0.1723
+    },
+    {
+     "folder": "1920362 LilDeuceDeuce - EVERYBODY DO THE FLOP",
+     "usable": true,
+     "file": "LilDeuceDeuce - EVERYBODY DO THE FLOP (wafer) [Pepekcz's Hard].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 55.2,
+     "under_s": 0.0,
+     "duration_s": 144.6,
+     "precision": null,
+     "chance": 0.3817
+    },
+    {
+     "folder": "1731357 Three - Kuuchuu Bunkai [no video]",
+     "usable": true,
+     "file": "Three - Kuuchuu Bunkai (Kuki1537) [Breaking Apart].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 16.8,
+     "under_s": 0.0,
+     "duration_s": 60.6,
+     "precision": null,
+     "chance": 0.2773
+    },
+    {
+     "folder": "2337695 KINEMA106 - Crosslet (Short Ver) [no video]",
+     "usable": true,
+     "file": "KINEMA106 - Crosslet (Short Ver.) (FreezingAnimenz) [Easy].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 20.6,
+     "under_s": 0.0,
+     "duration_s": 96.1,
+     "precision": null,
+     "chance": 0.2144
+    },
+    {
+     "folder": "67554 kemu - Haiboku no Shounen",
+     "usable": true,
+     "file": "kemu - Haiboku no Shounen (Midasmens) [Easy].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 63.7,
+     "under_s": 0.0,
+     "duration_s": 217.1,
+     "precision": null,
+     "chance": 0.2935
+    },
+    {
+     "folder": "15489 MT Nightcore - Welcome To The Club",
+     "usable": true,
+     "file": "MT Nightcore - Welcome To The Club (Shinxyn) [Hard].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 38.0,
+     "under_s": 0.0,
+     "duration_s": 206.8,
+     "precision": null,
+     "chance": 0.1837
+    },
+    {
+     "folder": "721240 GTA feat Sam Bruno - Red Lips (Mendus Remix)",
+     "usable": true,
+     "file": "GTA feat. Sam Bruno - Red Lips (Mendus Remix) (Shmiklak) [Alphabet's Insane].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 36.0,
+     "under_s": 0.0,
+     "duration_s": 109.2,
+     "precision": null,
+     "chance": 0.3297
+    },
+    {
+     "folder": "1248878 pluffaduff - Snow Halation but it's Bakamitai [no video]",
+     "usable": true,
+     "file": "pluffaduff - Snow Halation but it's Bakamitai (Not DT Farmer) [Hard].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 65.2,
+     "under_s": 0.0,
+     "duration_s": 260.9,
+     "precision": null,
+     "chance": 0.2499
+    },
+    {
+     "folder": "955866 KIRA & Heartbreaker - BBF (feat Hatsune Miku & Kagamine Rin)",
+     "usable": true,
+     "file": "KIRA & Heartbreaker - B.B.F (feat. Hatsune Miku & Kagamine Rin) (hypercyte) [Easy].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 74.1,
+     "under_s": 0.0,
+     "duration_s": 185.4,
+     "precision": null,
+     "chance": 0.3994
+    },
+    {
+     "folder": "873829 Drake - Nice For What",
+     "usable": true,
+     "file": "Drake - Nice For What (UndeadCapulet) [Aeril's Another].osu",
+     "chorus_s": 154.0,
+     "kiai_s": 0.0,
+     "under_s": 0.0,
+     "duration_s": 210.8,
+     "precision": 0.0003,
+     "chance": 0.0002
+    },
+    {
+     "folder": "1080671 The Gentle Men - 2019 Guy [no video]",
+     "usable": true,
+     "file": "The Gentle Men - 2019 Guy (-Keitaro) [2019].osu",
+     "chorus_s": 155.9,
+     "kiai_s": 71.1,
+     "under_s": 71.1,
+     "duration_s": 195.9,
+     "precision": 0.456,
+     "chance": 0.3629
+    },
+    {
+     "folder": "708829 Pierce The Veil - Hell Above",
+     "usable": false,
+     "why": "no kiai in any difficulty"
+    },
+    {
+     "folder": "1705429 Nanashi Mumei - A New Start [no video]",
+     "usable": false,
+     "why": "no kiai in any difficulty"
+    },
+    {
+     "folder": "1177346 Ne Obliviscaris - Eyrie",
+     "usable": true,
+     "file": "Ne Obliviscaris - Eyrie (Seto Kousuke) [Apotheosis].osu",
+     "chorus_s": 562.5,
+     "kiai_s": 36.6,
+     "under_s": 36.6,
+     "duration_s": 711.2,
+     "precision": 0.065,
+     "chance": 0.0514
+    },
+    {
+     "folder": "2287284 Phoneboy - Nevermind (feat Justin Magnaye) (Nightcore Mix)",
+     "usable": true,
+     "file": "Phoneboy - Nevermind (feat. Justin Magnaye) (Nightcore Mix) (-aly) [3D's Extra].osu",
+     "chorus_s": 72.5,
+     "kiai_s": 48.3,
+     "under_s": 48.3,
+     "duration_s": 156.1,
+     "precision": 0.6667,
+     "chance": 0.3096
+    },
+    {
+     "folder": "1410376 Hello, Happy World! - StaRt",
+     "usable": true,
+     "file": "Hello, Happy World! - StaRt (Ogura Yui) [Collab Hard].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 37.9,
+     "under_s": 0.0,
+     "duration_s": 111.1,
+     "precision": null,
+     "chance": 0.3412
+    },
+    {
+     "folder": "2233198 TRUE - Frozen (TV Size) [no video]",
+     "usable": true,
+     "file": "TRUE - Frozen (TV Size) (Fuxi66) [Castie's Expert].osu",
+     "chorus_s": 79.5,
+     "kiai_s": 21.6,
+     "under_s": 21.6,
+     "duration_s": 90.8,
+     "precision": 0.2714,
+     "chance": 0.2375
+    },
+    {
+     "folder": "504245 yuikonnu - Kakushigoto",
+     "usable": true,
+     "file": "yuikonnu - Kakushigoto (Lasse) [Abandoned].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 70.3,
+     "under_s": 0.0,
+     "duration_s": 239.3,
+     "precision": null,
+     "chance": 0.2936
+    },
+    {
+     "folder": "690556 Virtual Riot - Stay For A While",
+     "usable": true,
+     "file": "Virtual Riot - Stay For A While (ProfessionalBox) [Don't make me Lonely].osu",
+     "chorus_s": 151.0,
+     "kiai_s": 82.7,
+     "under_s": 82.7,
+     "duration_s": 199.8,
+     "precision": 0.5474,
+     "chance": 0.414
+    },
+    {
+     "folder": "89912 Stan SB - Let This Go",
+     "usable": true,
+     "file": "Stan SB - Let This Go (Kyshiro) [Gone].osu",
+     "chorus_s": 373.5,
+     "kiai_s": 126.2,
+     "under_s": 126.2,
+     "duration_s": 428.0,
+     "precision": 0.3378,
+     "chance": 0.2948
+    },
+    {
+     "folder": "1978883 FIFTY FIFTY - Cupid (Twin Ver) (Sped Up Ver)",
+     "usable": true,
+     "file": "FIFTY FIFTY - Cupid (Twin Ver.) (Sped Up Ver.) (Minii-nii) [im feeling lonely (].osu",
+     "chorus_s": 123.5,
+     "kiai_s": 49.8,
+     "under_s": 49.8,
+     "duration_s": 141.7,
+     "precision": 0.4032,
+     "chance": 0.3515
+    },
+    {
+     "folder": "2357199 Ray - secret arms (TV Size) [no video]",
+     "usable": true,
+     "file": "Ray - secret arms (TV Size) (Shunao) [advu's Hard].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 26.7,
+     "under_s": 0.0,
+     "duration_s": 90.0,
+     "precision": null,
+     "chance": 0.2968
+    },
+    {
+     "folder": "1010401 THE ORAL CIGARETTES - Monster Effect",
+     "usable": true,
+     "file": "THE ORAL CIGARETTES - Monster Effect (Sparxo) [Boss' Normal].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 28.4,
+     "under_s": 0.0,
+     "duration_s": 94.4,
+     "precision": null,
+     "chance": 0.3008
+    },
+    {
+     "folder": "89757 xi - FREEDOM DiVE",
+     "usable": false,
+     "why": "no kiai in any difficulty"
+    },
+    {
+     "folder": "340810 Seiryu - BLUE DRAGON",
+     "usable": true,
+     "file": "Seiryu - BLUE DRAGON (ExUsagi) [Hard].osu",
+     "chorus_s": 130.5,
+     "kiai_s": 88.0,
+     "under_s": 88.0,
+     "duration_s": 201.3,
+     "precision": 0.674,
+     "chance": 0.437
+    },
+    {
+     "folder": "2400800 Ishihara Kaori - Paraglider (TV Size) [no video]",
+     "usable": true,
+     "file": "Ishihara Kaori - Paraglider (TV Size) (monkerzaza) [Elyr4ra's Innocent Feelings].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 22.6,
+     "under_s": 0.0,
+     "duration_s": 90.0,
+     "precision": null,
+     "chance": 0.2511
+    },
+    {
+     "folder": "1074808  - Osu Minigames _^)",
+     "usable": false,
+     "why": "no kiai in any difficulty"
+    },
+    {
+     "folder": "324288 xi - ANiMA",
+     "usable": true,
+     "file": "xi - ANiMA (Kuo Kyoka) [4K Lv.4].osu",
+     "chorus_s": 98.5,
+     "kiai_s": 48.4,
+     "under_s": 46.2,
+     "duration_s": 118.8,
+     "precision": 0.4691,
+     "chance": 0.4072
+    },
+    {
+     "folder": "2449469 Demi Lovato - Sorry Not Sorry (Rock Ver) (Nightcore & Cut Ver)",
+     "usable": true,
+     "file": "Demi Lovato - Sorry Not Sorry (Rock Ver.) (Nightcore & Cut Ver.) (Smoke) [Collab Hard].osu",
+     "chorus_s": 95.2,
+     "kiai_s": 41.2,
+     "under_s": 41.2,
+     "duration_s": 126.7,
+     "precision": 0.4326,
+     "chance": 0.325
+    },
+    {
+     "folder": "86009 Yousei Teikoku - Zetsubou plantation",
+     "usable": true,
+     "file": "Yousei Teikoku - Zetsubou plantation (Saten) [Ami's Hard].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 56.3,
+     "under_s": 0.0,
+     "duration_s": 220.8,
+     "precision": null,
+     "chance": 0.2552
+    },
+    {
+     "folder": "355441 LIZ - Y2K",
+     "usable": false,
+     "why": "no kiai in any difficulty"
+    },
+    {
+     "folder": "1524658 Nakimushi - Tokyo Wonder",
+     "usable": true,
+     "file": "Nakimushi - Tokyo Wonder. (Emiru Ikuno 11) [Abelia's Hard].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 41.8,
+     "under_s": 0.0,
+     "duration_s": 149.8,
+     "precision": null,
+     "chance": 0.2787
+    },
+    {
+     "folder": "2386777",
+     "usable": true,
+     "file": "Phoneboy - Nevermind (Sped Up & Cut Ver.) (MindFreak) [Addiction].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 30.0,
+     "under_s": 0.0,
+     "duration_s": 57.6,
+     "precision": null,
+     "chance": 0.5207
+    },
+    {
+     "folder": "2518169 FLORE - GRIM (NIGHTCORE MIX)",
+     "usable": true,
+     "file": "FLORE - GRIM (NIGHTCORE MIX) (Smoke) [KARMA].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 67.7,
+     "under_s": 0.0,
+     "duration_s": 140.2,
+     "precision": null,
+     "chance": 0.4829
+    },
+    {
+     "folder": "35928 Ai Nonaka & Eri Kitamura - and I'm home",
+     "usable": true,
+     "file": "Ai Nonaka & Eri Kitamura - and I'm home (Nymph) [Collab].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 59.5,
+     "under_s": 0.0,
+     "duration_s": 170.1,
+     "precision": null,
+     "chance": 0.3499
+    },
+    {
+     "folder": "2361261 DraGonis x Ghost Voices - Stargazing in Liyue",
+     "usable": false,
+     "why": "no kiai in any difficulty"
+    }
+   ],
+   "summary": {
+    "n": 32,
+    "folders": 100,
+    "lit": 87,
+    "precision": 37.5,
+    "chance": 27.8,
+    "lift": 9.7,
+    "pass": false
+   }
+  },
+  "heldout": {
+   "rows": [
+    {
+     "folder": "2150857 Brian the Sun - Lonely Go! (TV Size) [no video]",
+     "usable": true,
+     "file": "Brian The Sun - Lonely Go! (TV Size) (Log Off Now) [Castie's Insane].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 19.1,
+     "under_s": 0.0,
+     "duration_s": 90.0,
+     "precision": null,
+     "chance": 0.2124
+    },
+    {
+     "folder": "Jeff Williams feat Casey Lee Williams and Lamar Hall - Ignite",
+     "usable": true,
+     "file": "Jeff Williams feat. Casey Lee Williams and Lamar Hall - Ignite (githalt) [Ruthless].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 175.2,
+     "under_s": 0.0,
+     "duration_s": 244.9,
+     "precision": null,
+     "chance": 0.7155
+    },
+    {
+     "folder": "378183 MOMOIRO CLOVER Z - SANTA SAN",
+     "usable": true,
+     "file": "MOMOIRO CLOVER Z - SANTA SAN (monstrata) [X-Mas].osu",
+     "chorus_s": 282.5,
+     "kiai_s": 107.4,
+     "under_s": 107.4,
+     "duration_s": 312.9,
+     "precision": 0.3801,
+     "chance": 0.3431
+    },
+    {
+     "folder": "2463805 Jake Kaufman - Money Bin (Cut Ver)",
+     "usable": false,
+     "why": "no kiai in any difficulty"
+    },
+    {
+     "folder": "1330065 Lie and a Chameleon - mononoke in the fiction (TV Size) [no video] (1)",
+     "usable": true,
+     "file": "Lie and a Chameleon - mononoke in the fiction (TV Size) (Rosiie) [Collab Hard].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 13.4,
+     "under_s": 0.0,
+     "duration_s": 91.7,
+     "precision": null,
+     "chance": 0.1461
+    },
+    {
+     "folder": "2106264 Norman J Grossfeld, Russell Velazquez - Gotta Go Fast (TV Size) [no video]",
+     "usable": true,
+     "file": "Norman J. Grossfeld, Russell Velazquez - Gotta Go Fast (TV Size) (buddon) [AYYRI'S ADVANCED].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 23.0,
+     "under_s": 0.0,
+     "duration_s": 62.0,
+     "precision": null,
+     "chance": 0.3716
+    },
+    {
+     "folder": "594884 M2U - Marigold (ft Guriri)",
+     "usable": true,
+     "file": "M2U - Marigold (ft. Guriri) (- Frontier -) [Another].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 23.2,
+     "under_s": 0.0,
+     "duration_s": 153.5,
+     "precision": null,
+     "chance": 0.1509
+    },
+    {
+     "folder": "885923 Camellia - The King Of Lions",
+     "usable": true,
+     "file": "Camellia - The King of Lions (Regou) [Extra].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 70.9,
+     "under_s": 0.0,
+     "duration_s": 272.7,
+     "precision": null,
+     "chance": 0.2598
+    },
+    {
+     "folder": "2284092 Set It Off - Parasite (Cut Ver)",
+     "usable": true,
+     "file": "Set It Off - Parasite (Cut Ver.) (Smoke) [Vermin].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 15.6,
+     "under_s": 0.0,
+     "duration_s": 128.4,
+     "precision": null,
+     "chance": 0.1217
+    },
+    {
+     "folder": "beatmap-639167812824096180-audio",
+     "usable": true,
+     "file": "Pierce The Veil - Hell Above (githalt) [With Heaven Above You, There's Hell Over Me].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 61.8,
+     "under_s": 0.0,
+     "duration_s": 223.6,
+     "precision": null,
+     "chance": 0.2767
+    },
+    {
+     "folder": "271339 amazarashi - Kisetsu wa Tsugitsugi Shindeiku -Tokyo Ghoul Root A Edit-",
+     "usable": true,
+     "file": "amazarashi - Kisetsu wa Tsugitsugi Shindeiku -Tokyo Ghoul Root A Edit- (NewIpas) [Easy].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 21.2,
+     "under_s": 0.0,
+     "duration_s": 91.4,
+     "precision": null,
+     "chance": 0.2321
+    },
+    {
+     "folder": "2241059 Hoshi Syoko (CV_ Matsuda Satsumi) - Zettai Tokken Shuchou Shimasu! Hoshi Syoko Sol",
+     "usable": true,
+     "file": "Hoshi Syoko (CV Matsuda Satsumi) - Zettai Tokken Shuchou Shimasu! Hoshi Syoko Solo Remix (Cut Ver.) (Remilie) [Absolute Privilege!].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 13.7,
+     "under_s": 0.0,
+     "duration_s": 87.1,
+     "precision": null,
+     "chance": 0.1567
+    },
+    {
+     "folder": "beatmap-639105634927733491-audio",
+     "usable": true,
+     "file": "Official HIGE DANdism - Same Blue (TV Size) (githalt) [Aishiteru].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 34.9,
+     "under_s": 0.0,
+     "duration_s": 90.5,
+     "precision": null,
+     "chance": 0.3856
+    },
+    {
+     "folder": "1841114 Hayami Saori - Guide (TV Size) [no video]",
+     "usable": false,
+     "why": "no kiai in any difficulty"
+    },
+    {
+     "folder": "1776682 Imperial Circus Dead Decadence - Hyakki Yakou -Pandemonic Night Parade-",
+     "usable": true,
+     "file": "Imperial Circus Dead Decadence - Hyakki Yakou -Pandemonic Night Parade- (Hantrik) [Youkai].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 44.4,
+     "under_s": 0.0,
+     "duration_s": 320.4,
+     "precision": null,
+     "chance": 0.1385
+    },
+    {
+     "folder": "2030798 Hikarinonakani - Daijobu",
+     "usable": true,
+     "file": "Hikarinonakani - Daijobu (Log Off Now) [banter's Expert].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 46.0,
+     "under_s": 0.0,
+     "duration_s": 236.1,
+     "precision": null,
+     "chance": 0.1947
+    },
+    {
+     "folder": "2405562 ELFENSJoN - LUNATIC MIRAGE",
+     "usable": true,
+     "file": "ELFENSJoN - LUNATIC MIRAGE (Sutherland) [COLLAB HARD].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 73.1,
+     "under_s": 0.0,
+     "duration_s": 221.0,
+     "precision": null,
+     "chance": 0.3307
+    },
+    {
+     "folder": "143159 Ling tosite sigure - abnormalize (TV edit) [no video]",
+     "usable": true,
+     "file": "Ling tosite sigure - abnormalize (TV edit) (Irreversible) [Anre's Normal].osu",
+     "chorus_s": 77.5,
+     "kiai_s": 2.9,
+     "under_s": 2.9,
+     "duration_s": 90.1,
+     "precision": 0.0376,
+     "chance": 0.0323
+    },
+    {
+     "folder": "1092466 BLACKPINK - Kill This Love [no video]",
+     "usable": true,
+     "file": "BLACKPINK - Kill This Love (Rosiie) [Extra].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 43.6,
+     "under_s": 0.0,
+     "duration_s": 190.7,
+     "precision": null,
+     "chance": 0.2289
+    },
+    {
+     "folder": "791798 cYsmix - Behind the Walls",
+     "usable": true,
+     "file": "cYsmix - Behind the Walls (Lasse) [Hard].osu",
+     "chorus_s": 59.5,
+     "kiai_s": 28.1,
+     "under_s": 28.1,
+     "duration_s": 138.8,
+     "precision": 0.472,
+     "chance": 0.2026
+    },
+    {
+     "folder": "1662501 yuikonnu - Yume Chizu",
+     "usable": true,
+     "file": "Yuikonnu - Yume Chizu (Share) [Insane].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 63.1,
+     "under_s": 0.0,
+     "duration_s": 190.1,
+     "precision": null,
+     "chance": 0.3318
+    },
+    {
+     "folder": "2358019 HoneyWorks feat HaKoniwalily - Shitsumon, Koitte Nandesho ka (TV Size) [no video]",
+     "usable": true,
+     "file": "HoneyWorks feat. HaKoniwalily - Shitsumon, Koitte Nandesho ka (TV Size) (Len) [Not Classic Extra].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 19.4,
+     "under_s": 0.0,
+     "duration_s": 92.3,
+     "precision": null,
+     "chance": 0.2103
+    },
+    {
+     "folder": "2390174",
+     "usable": true,
+     "file": "Various Artists - Jump Pack (scarlet) [Calm Down Juliet (Sped Up)].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 12.9,
+     "under_s": 0.0,
+     "duration_s": 40.8,
+     "precision": null,
+     "chance": 0.317
+    },
+    {
+     "folder": "693215 StylipS - Give Me Secret [no video]",
+     "usable": true,
+     "file": "StylipS - Give Me Secret (Cris-) [Hard].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 23.5,
+     "under_s": 0.0,
+     "duration_s": 90.0,
+     "precision": null,
+     "chance": 0.2615
+    },
+    {
+     "folder": "2243778 Avenged Sevenfold - Second Heartbeat",
+     "usable": true,
+     "file": "Avenged Sevenfold - Second Heartbeat (Rumia-) [Happy Memory].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 119.4,
+     "under_s": 0.0,
+     "duration_s": 420.3,
+     "precision": null,
+     "chance": 0.284
+    },
+    {
+     "folder": "739119 3L - Spring of Dreams",
+     "usable": true,
+     "file": "3L - Spring of Dreams (Trust) [Easy].osu",
+     "chorus_s": 137.5,
+     "kiai_s": 50.2,
+     "under_s": 50.2,
+     "duration_s": 183.2,
+     "precision": 0.3649,
+     "chance": 0.2739
+    },
+    {
+     "folder": "601840 cYsmix - Arcade Busters",
+     "usable": true,
+     "file": "cYsmix - Arcade Busters (borborygmos) [Easy].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 43.6,
+     "under_s": 0.0,
+     "duration_s": 113.0,
+     "precision": null,
+     "chance": 0.386
+    },
+    {
+     "folder": "2574791 PUP - Old Wounds",
+     "usable": true,
+     "file": "PUP - Old Wounds (Wisoven) [CLICKMACHINE (DIFFICULTY INSANE)].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 30.3,
+     "under_s": 0.0,
+     "duration_s": 139.6,
+     "precision": null,
+     "chance": 0.2173
+    },
+    {
+     "folder": "1090804 D-ne (CV_ Aizawa Mai) - Sarumane Isutori Game [no video]",
+     "usable": true,
+     "file": "D-ne (CV Aizawa Mai) - Sarumane Isutori Game (Nevo) [Aakki, Nevo & Nymphe's Extra].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 84.1,
+     "under_s": 0.0,
+     "duration_s": 224.4,
+     "precision": null,
+     "chance": 0.3749
+    },
+    {
+     "folder": "2517811 bixby - endlessly (nightcore & cut ver)",
+     "usable": true,
+     "file": "bixby - endlessly (nightcore & cut ver.) (-Yumiko-) [And then... I told a single lie].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 15.7,
+     "under_s": 0.0,
+     "duration_s": 44.4,
+     "precision": null,
+     "chance": 0.3525
+    },
+    {
+     "folder": "2208067 Shika-bu - Shikairo Days (TV Size) [no video]",
+     "usable": true,
+     "file": "Shika-bu - Shikairo Days (TV Size) (KeyWee) [Hard].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 30.5,
+     "under_s": 0.0,
+     "duration_s": 90.3,
+     "precision": null,
+     "chance": 0.3377
+    },
+    {
+     "folder": "457184 nao - Soutaisei VISION [no video]",
+     "usable": true,
+     "file": "nao - Soutaisei VISION (domSaur) [Akitoshi's Insane].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 22.7,
+     "under_s": 0.0,
+     "duration_s": 101.4,
+     "precision": null,
+     "chance": 0.2239
+    },
+    {
+     "folder": "502518 UNDEAD CORPORATION - Embraced by the Flame (English ver)",
+     "usable": true,
+     "file": "UNDEAD CORPORATION - Embraced by the Flame (English ver.) (Shurgot) [Encompass New].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 67.5,
+     "under_s": 0.0,
+     "duration_s": 249.0,
+     "precision": null,
+     "chance": 0.2712
+    },
+    {
+     "folder": "767346 Thaehan - Bwa !",
+     "usable": true,
+     "file": "Thaehan - Bwa ! (Deif) [Ascendance's Rain].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 29.3,
+     "under_s": 0.0,
+     "duration_s": 123.8,
+     "precision": null,
+     "chance": 0.2365
+    },
+    {
+     "folder": "696824 C-Bool - Never Go Away",
+     "usable": true,
+     "file": "C-Bool - Never Go Away (Daze1337) [Normal].osu",
+     "chorus_s": 89.0,
+     "kiai_s": 57.0,
+     "under_s": 31.0,
+     "duration_s": 228.4,
+     "precision": 0.3486,
+     "chance": 0.2497
+    },
+    {
+     "folder": "615870 YUC'e - PUMP",
+     "usable": true,
+     "file": "YUC'e - PUMP (Flare-kun) [-Jordan-kun's Love].osu",
+     "chorus_s": 64.0,
+     "kiai_s": 60.7,
+     "under_s": 60.2,
+     "duration_s": 193.6,
+     "precision": 0.9402,
+     "chance": 0.3134
+    },
+    {
+     "folder": "2150485 Joy Again - Looking Out For You",
+     "usable": true,
+     "file": "Joy Again - Looking Out For You (meiqth) [Futsuu].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 47.6,
+     "under_s": 0.0,
+     "duration_s": 180.2,
+     "precision": null,
+     "chance": 0.2644
+    },
+    {
+     "folder": "1266431 TK from Ling tosite sigure - unravel (TV Size)",
+     "usable": true,
+     "file": "TK from Ling tosite sigure - unravel (TV Size) (NeKroMan4ik) [Easy].osu",
+     "chorus_s": 71.5,
+     "kiai_s": 19.4,
+     "under_s": 19.4,
+     "duration_s": 89.6,
+     "precision": 0.2719,
+     "chance": 0.217
+    },
+    {
+     "folder": "593032 Tenacious D - BEELZEBOSS (THE FINAL SHOWDOWN)",
+     "usable": true,
+     "file": "Tenacious D - BEELZEBOSS (THE FINAL SHOWDOWN) (CookieBite) [CHALLENGE].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 59.4,
+     "under_s": 0.0,
+     "duration_s": 335.9,
+     "precision": null,
+     "chance": 0.1768
+    },
+    {
+     "folder": "736560 Various Artists - Songs Compilation",
+     "usable": true,
+     "file": "Various Artists - Songs Compilation (Sotarks) [Kin's Inner Oni].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 39.4,
+     "under_s": 0.0,
+     "duration_s": 353.2,
+     "precision": null,
+     "chance": 0.1117
+    },
+    {
+     "folder": "208095 Sharlo & yealina - Kakushigoto",
+     "usable": true,
+     "file": "Sharlo & yealina - Kakushigoto (Sharlo) [Fycho's Hard].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 71.7,
+     "under_s": 0.0,
+     "duration_s": 244.9,
+     "precision": null,
+     "chance": 0.2928
+    },
+    {
+     "folder": "2557687 MIOYAMAZAKI - Noise (Speed Up & Cut Ver)",
+     "usable": true,
+     "file": "MIOYAMAZAKI - Noise (Speed Up & Cut Ver.) (Subaru) [Soyuha].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 36.1,
+     "under_s": 0.0,
+     "duration_s": 88.2,
+     "precision": null,
+     "chance": 0.4093
+    },
+    {
+     "folder": "744636 MAX MAXIMIZER vs DJ TOTTO - Rebellio",
+     "usable": true,
+     "file": "MAX MAXIMIZER vs. DJ TOTTO - Rebellio (Realazy) [AYYRI'S INNER ONI].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 20.0,
+     "under_s": 0.0,
+     "duration_s": 131.1,
+     "precision": null,
+     "chance": 0.1526
+    },
+    {
+     "folder": "970063 THE ORAL CIGARETTES - Songs Compilation",
+     "usable": false,
+     "why": "no kiai in any difficulty"
+    },
+    {
+     "folder": "1761637 Imperial Circus Dead Decadence - Seishin no Kairi no, Sakebi to Nageki",
+     "usable": true,
+     "file": "Imperial Circus Dead Decadence - Seishin No Kairi No, Sakebi To Nageki. (Esutarosa) [-Kemsyt x Striped's Insane.].osu",
+     "chorus_s": 227.9,
+     "kiai_s": 54.5,
+     "under_s": 54.5,
+     "duration_s": 266.4,
+     "precision": 0.2394,
+     "chance": 0.2048
+    },
+    {
+     "folder": "1172199 NIGHTMARE - Alumina (TV Size)",
+     "usable": true,
+     "file": "NIGHTMARE - Alumina (TV Size) (Kuki1537) [Hard].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 15.6,
+     "under_s": 0.0,
+     "duration_s": 69.3,
+     "precision": null,
+     "chance": 0.2245
+    },
+    {
+     "folder": "1355471 YOASOBI - Kaibutsu",
+     "usable": true,
+     "file": "YOASOBI - Kaibutsu (Zer0-) [Asaiga's Insane].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 39.5,
+     "under_s": 0.0,
+     "duration_s": 206.0,
+     "precision": null,
+     "chance": 0.1919
+    },
+    {
+     "folder": "beatmap-639106491619139309-audio 1.095x 0.948x",
+     "usable": true,
+     "file": "La+ Darkness - Shirayuki (Sped Up Ver.) (githalt) [WIP DIFF NAME].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 106.9,
+     "under_s": 0.0,
+     "duration_s": 254.4,
+     "precision": null,
+     "chance": 0.4202
+    },
+    {
+     "folder": "2374611 Meghan Trainor - Better When I'm Dancin'",
+     "usable": true,
+     "file": "Meghan Trainor - Better When I'm Dancin' (Tylerderp) [Akhatake's Normal].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 37.5,
+     "under_s": 0.0,
+     "duration_s": 176.4,
+     "precision": null,
+     "chance": 0.2126
+    },
+    {
+     "folder": "2182276 DragonForce - Burning Heart",
+     "usable": true,
+     "file": "DragonForce - Burning Heart (Maaadbot) [A Million Stars].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 70.4,
+     "under_s": 0.0,
+     "duration_s": 355.8,
+     "precision": null,
+     "chance": 0.1979
+    },
+    {
+     "folder": "870688 Arctic Monkeys - The Bad Thing",
+     "usable": true,
+     "file": "Arctic Monkeys - The Bad Thing (Milan-) [BOUYAAA's Extra].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 13.0,
+     "under_s": 0.0,
+     "duration_s": 82.8,
+     "precision": null,
+     "chance": 0.1567
+    },
+    {
+     "folder": "1209835 Bowling For Soup - Today is Gonna be a Great Day (TV Size) [no video]",
+     "usable": false,
+     "why": "no kiai in any difficulty"
+    },
+    {
+     "folder": "2062484 DECO27 - First Storm (KonranP's Japanese Version)",
+     "usable": true,
+     "file": "DECO27 - First Storm (KonranP's Japanese Version) (Kuki1537) [Mutual Promise].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 56.5,
+     "under_s": 0.0,
+     "duration_s": 234.5,
+     "precision": null,
+     "chance": 0.2411
+    },
+    {
+     "folder": "352351 Halozy - Snow Changes to a Beat Again",
+     "usable": true,
+     "file": "Halozy - Snow Changes to a Beat Again (Lasse) [Freezing].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 6.8,
+     "under_s": 0.0,
+     "duration_s": 52.7,
+     "precision": null,
+     "chance": 0.1292
+    },
+    {
+     "folder": "1589497 Yu-Peng Chen @HOYO-MiX - Liyue (Cut Ver)",
+     "usable": true,
+     "file": "Yu-Peng Chen @HOYO-MiX - Liyue (Cut Ver.) (midorijeon) [A Sea of Lights on a Dreamlike Night].osu",
+     "chorus_s": 69.7,
+     "kiai_s": 55.7,
+     "under_s": 55.7,
+     "duration_s": 121.7,
+     "precision": 0.7994,
+     "chance": 0.4578
+    },
+    {
+     "folder": "1050914 MEMAI SIREN - Nijimu Sabiiro",
+     "usable": true,
+     "file": "MEMAI SIREN - Nijimu Sabiiro (Lasse) [Hard].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 49.8,
+     "under_s": 0.0,
+     "duration_s": 193.3,
+     "precision": null,
+     "chance": 0.2576
+    },
+    {
+     "folder": "2126831 the peggies - Kimi no Sei (TV Size) [no video]",
+     "usable": true,
+     "file": "the peggies - Kimi no Sei (TV Size) (Xahlt) [Amats' Insane].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 33.3,
+     "under_s": 0.0,
+     "duration_s": 90.9,
+     "precision": null,
+     "chance": 0.366
+    },
+    {
+     "folder": "1910614 THE ORAL CIGARETTES - Miss Tail (Cut Ver)",
+     "usable": true,
+     "file": "THE ORAL CIGARETTES - Miss Tail (Cut Ver.) (Fufla) [buddon's Insane].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 21.3,
+     "under_s": 0.0,
+     "duration_s": 90.8,
+     "precision": null,
+     "chance": 0.235
+    },
+    {
+     "folder": "2308106 Jeff Rosenstock - HEAD",
+     "usable": true,
+     "file": "Jeff Rosenstock - HEAD (Sh4rq_) [ALY'S EXTRA].osu",
+     "chorus_s": 50.7,
+     "kiai_s": 39.9,
+     "under_s": 39.9,
+     "duration_s": 90.7,
+     "precision": 0.7871,
+     "chance": 0.4399
+    },
+    {
+     "folder": "2219369 Imperial Circus Dead Decadence - Gekiai No Yobigoe Ga Dekiai No Sakebigoe Wo Kurau",
+     "usable": true,
+     "file": "Imperial Circus Dead Decadence - Gekiai No Yobigoe Ga Dekiai No Sakebigoe Wo Kurau (Ratarok) [Monogatari].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 82.9,
+     "under_s": 0.0,
+     "duration_s": 402.3,
+     "precision": null,
+     "chance": 0.206
+    },
+    {
+     "folder": "766441 EDEN - icarus",
+     "usable": true,
+     "file": "EDEN - icarus (KKipalt) [fall].osu",
+     "chorus_s": 254.5,
+     "kiai_s": 83.6,
+     "under_s": 62.6,
+     "duration_s": 405.4,
+     "precision": 0.2459,
+     "chance": 0.2061
+    },
+    {
+     "folder": "2436446 Evanescence - Bring Me To Life (Cut Ver)",
+     "usable": true,
+     "file": "Evanescence - Bring Me To Life (Cut Ver.) (Mekadon) [Aly's HS].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 35.4,
+     "under_s": 0.0,
+     "duration_s": 111.0,
+     "precision": null,
+     "chance": 0.3188
+    },
+    {
+     "folder": "1750904 Ardolf - Varcolac",
+     "usable": true,
+     "file": "Ardolf - Varcolac (Nymphe) [Expert].osu",
+     "chorus_s": 89.5,
+     "kiai_s": 25.6,
+     "under_s": 25.6,
+     "duration_s": 136.5,
+     "precision": 0.2858,
+     "chance": 0.1874
+    },
+    {
+     "folder": "2377548 Wakeshima Kanon - killy killy JOKER (TV Size)",
+     "usable": true,
+     "file": "Wakeshima Kanon - killy killy JOKER (TV Size) (My Angel Ram) [Amats' Hard].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 31.5,
+     "under_s": 0.0,
+     "duration_s": 92.1,
+     "precision": null,
+     "chance": 0.3419
+    },
+    {
+     "folder": "959603 cillia - Chikatto Chika Chika [no video]",
+     "usable": true,
+     "file": "cillia - Chikatto Chika Chika (Noffy) [-GN Jr.'s Love Detective].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 14.0,
+     "under_s": 0.0,
+     "duration_s": 94.4,
+     "precision": null,
+     "chance": 0.1481
+    },
+    {
+     "folder": "1415335 Marika - quantum jump",
+     "usable": true,
+     "file": "Marika - quantum jump (Illyasviel) [Avowal].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 25.8,
+     "under_s": 0.0,
+     "duration_s": 91.2,
+     "precision": null,
+     "chance": 0.2833
+    },
+    {
+     "folder": "727333 Seeed - Ding [no video]",
+     "usable": true,
+     "file": "Seeed - Ding (IceKalt) [F4st's hard].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 57.4,
+     "under_s": 0.0,
+     "duration_s": 209.1,
+     "precision": null,
+     "chance": 0.2747
+    },
+    {
+     "folder": "660752 Naru Hakobe (CV_ MAO) - Neko Matsuri [no video]",
+     "usable": true,
+     "file": "Naru Hakobe (CV M.A.O) - Neko Matsuri (Regou) [ailv's Hard].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 36.0,
+     "under_s": 0.0,
+     "duration_s": 145.6,
+     "precision": null,
+     "chance": 0.2473
+    },
+    {
+     "folder": "2401189 Vickeblanka - Black Rover (TV Size) [no video]",
+     "usable": true,
+     "file": "Vickeblanka - Black Rover (TV Size) (killian) [Arfi's Insane].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 28.4,
+     "under_s": 0.0,
+     "duration_s": 89.4,
+     "precision": null,
+     "chance": 0.3176
+    },
+    {
+     "folder": "1017701 IAHN - Feel It",
+     "usable": false,
+     "why": "no kiai in any difficulty"
+    },
+    {
+     "folder": "2448143 Watarirouka Hashiritai - Kanpeki Gu~ no Ne (TV Size)",
+     "usable": true,
+     "file": "Watarirouka Hashiritai - Kanpeki Gu~ no Ne (TV Size) (killian) [Arfi's Normal].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 34.6,
+     "under_s": 0.0,
+     "duration_s": 101.0,
+     "precision": null,
+     "chance": 0.3428
+    },
+    {
+     "folder": "1592522 amazarashi - Kyoukaisen (TV Size)",
+     "usable": true,
+     "file": "amazarashi - Kyoukaisen (TV Size) (Soue) [Easy].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 39.7,
+     "under_s": 0.0,
+     "duration_s": 90.2,
+     "precision": null,
+     "chance": 0.4404
+    },
+    {
+     "folder": "1234909 Mrs GREEN APPLE - Ke-Mo Sah-Bee (Cut Ver)",
+     "usable": true,
+     "file": "Mrs. GREEN APPLE - Ke-Mo Sah-Bee (Cut Ver.) (Rosiie) [Autumn].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 19.7,
+     "under_s": 0.0,
+     "duration_s": 92.0,
+     "precision": null,
+     "chance": 0.2141
+    },
+    {
+     "folder": "2088181 Good Kid - From The Start",
+     "usable": true,
+     "file": "Good Kid - From The Start (Marshes) [Blah Blah Blah].osu",
+     "chorus_s": 98.0,
+     "kiai_s": 19.4,
+     "under_s": 19.4,
+     "duration_s": 150.1,
+     "precision": 0.1975,
+     "chance": 0.1289
+    },
+    {
+     "folder": "637706 sana - Senpai",
+     "usable": true,
+     "file": "sana - Senpai. (Kyuukai) [Advanced].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 83.0,
+     "under_s": 0.0,
+     "duration_s": 225.3,
+     "precision": null,
+     "chance": 0.3682
+    },
+    {
+     "folder": "1861820 Poppin'Party - Yume o Uchinuku Shunkan ni!",
+     "usable": true,
+     "file": "Poppin'Party - Yume o Uchinuku Shunkan ni! (Mirsaaa) [Let's Party].osu",
+     "chorus_s": 242.5,
+     "kiai_s": 76.8,
+     "under_s": 76.8,
+     "duration_s": 280.6,
+     "precision": 0.3169,
+     "chance": 0.2739
+    },
+    {
+     "folder": "232935 Ikimono Gakari - Netsujou no Spectrum [no video]",
+     "usable": true,
+     "file": "Ikimono Gakari - Netsujou no Spectrum (xxdeathx) [Easy].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 24.0,
+     "under_s": 0.0,
+     "duration_s": 90.0,
+     "precision": null,
+     "chance": 0.2666
+    },
+    {
+     "folder": "Olivia Rodrigo - Obsessed (Cut Ver)",
+     "usable": true,
+     "file": "Olivia Rodrigo - Obsessed (Cut Ver.) (swe_) [love issues].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 14.0,
+     "under_s": 0.0,
+     "duration_s": 37.8,
+     "precision": null,
+     "chance": 0.3706
+    },
+    {
+     "folder": "2289215 Sum 41 - Screaming Bloody Murder",
+     "usable": false,
+     "why": "no kiai in any difficulty"
+    },
+    {
+     "folder": "980599 Culprate - Acid Rain",
+     "usable": false,
+     "why": "no kiai in any difficulty"
+    },
+    {
+     "folder": "2174378 UTA (VO_ Ado) - I'm invincible [no video]",
+     "usable": false,
+     "why": "no kiai in any difficulty"
+    },
+    {
+     "folder": "2502761 Tanya Degurechaff (CV_ Yuuki Aoi) - Los! Los! Los! (TV Size) [no video]",
+     "usable": true,
+     "file": "Tanya Degurechaff (CV Yuuki Aoi) - Los! Los! Los! (TV Size) (Kuki1537) [404 MyMommy(Shiroha) NotFound's Extreme].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 26.0,
+     "under_s": 0.0,
+     "duration_s": 90.9,
+     "precision": null,
+     "chance": 0.2863
+    },
+    {
+     "folder": "1587493 THE ORAL CIGARETTES - 5150",
+     "usable": true,
+     "file": "THE ORAL CIGARETTES - 5150 (Nevo) [dog food's expert].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 23.8,
+     "under_s": 0.0,
+     "duration_s": 238.8,
+     "precision": null,
+     "chance": 0.0994
+    },
+    {
+     "folder": "1423394 SPYAIR - PRIDE OF LIONS (Cut Ver)",
+     "usable": false,
+     "why": "no kiai in any difficulty"
+    },
+    {
+     "folder": "894883 Aiurabu - Kani_Do-Luck! (TV Size) [no video]",
+     "usable": true,
+     "file": "Aiurabu - KaniDo-Luck! (TV Size) (Azunyan-) [A I U R A !].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 13.7,
+     "under_s": 0.0,
+     "duration_s": 60.1,
+     "precision": null,
+     "chance": 0.2283
+    },
+    {
+     "folder": "2286088 Jeff Rosenstock - NO TIME",
+     "usable": false,
+     "why": "no kiai in any difficulty"
+    },
+    {
+     "folder": "2452800 Scott Bradley - Tom and Jerry Main Theme",
+     "usable": false,
+     "why": "no kiai in any difficulty"
+    },
+    {
+     "folder": "2298744 Nishikino Maki (CV_ Pile) - Snow halation (MAKI Mix) (Cut Ver)",
+     "usable": true,
+     "file": "Nishikino Maki (CV Pile) - Snow halation (MAKI Mix) (Cut Ver.) (Cris-) [Collab Insane].osu",
+     "chorus_s": 75.0,
+     "kiai_s": 33.3,
+     "under_s": 33.3,
+     "duration_s": 119.2,
+     "precision": 0.4439,
+     "chance": 0.2794
+    },
+    {
+     "folder": "1911871 kessoku band - Karakara (TV Size) [no video]",
+     "usable": true,
+     "file": "kessoku band - Karakara (TV Size) (KeyWee) [Hard].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 18.9,
+     "under_s": 0.0,
+     "duration_s": 90.2,
+     "precision": null,
+     "chance": 0.2101
+    },
+    {
+     "folder": "690966 ZYTOKINE - Dancing Dollz feat cold kiss - REDALiCE Remix",
+     "usable": true,
+     "file": "ZYTOKINE - Dancing Dollz feat. cold kiss - REDALiCE Remix (MaridiuS) [Akitoshi's Insane].osu",
+     "chorus_s": 176.0,
+     "kiai_s": 36.7,
+     "under_s": 36.7,
+     "duration_s": 222.7,
+     "precision": 0.2084,
+     "chance": 0.1647
+    },
+    {
+     "folder": "844633 Akiyama Mio (CV_ Hikasa Yoko) - Heart Goes Boom!! [GAME Mix]",
+     "usable": true,
+     "file": "Akiyama Mio (CV Hikasa Yoko) - Heart Goes Boom!! [GAME Mix] (TT Mouse) [Extra].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 36.3,
+     "under_s": 0.0,
+     "duration_s": 130.0,
+     "precision": null,
+     "chance": 0.2794
+    },
+    {
+     "folder": "1369259 CHiCO with HoneyWorks - Minikui Ikimono (TV Size)",
+     "usable": true,
+     "file": "CHiCO with HoneyWorks - Minikui Ikimono (TV Size) (Aerous) [Easy].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 19.7,
+     "under_s": 0.0,
+     "duration_s": 91.7,
+     "precision": null,
+     "chance": 0.2147
+    },
+    {
+     "folder": "1103785 Uratanuki x Pusu - Pokopoko Tanuki to Pusu Usagi [no video]",
+     "usable": true,
+     "file": "Uratanuki x Pusu - Pokopoko Tanuki to Pusu Usagi (Nevo) [amb1's Extra].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 45.0,
+     "under_s": 0.0,
+     "duration_s": 207.9,
+     "precision": null,
+     "chance": 0.2165
+    },
+    {
+     "folder": "181142 Hanatan - Tengaku",
+     "usable": true,
+     "file": "Hanatan - Tengaku (Kihhou) [Giralda's Insane].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 22.6,
+     "under_s": 0.0,
+     "duration_s": 136.2,
+     "precision": null,
+     "chance": 0.1661
+    },
+    {
+     "folder": "2197631 KISIDA KYODAN & THE AKEBOSI ROCKETS - EGOISTIC HERO (Cut Ver)",
+     "usable": true,
+     "file": "KISIDA KYODAN & THE AKEBOSI ROCKETS - EGOISTIC HERO (Cut Ver.) (Parad0xa) [EGOISM].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 17.9,
+     "under_s": 0.0,
+     "duration_s": 106.2,
+     "precision": null,
+     "chance": 0.169
+    },
+    {
+     "folder": "2590394 The Offspring - The Future Is Now",
+     "usable": true,
+     "file": "The Offspring - The Future Is Now (githalt) [This Is How I Disappear].osu",
+     "chorus_s": 202.9,
+     "kiai_s": 64.2,
+     "under_s": 63.9,
+     "duration_s": 248.4,
+     "precision": 0.3147,
+     "chance": 0.2584
+    },
+    {
+     "folder": "2269425 OFFICIAL HIGE DANDISM - Same Blue (TV Size) [no video]",
+     "usable": false,
+     "why": "no kiai in any difficulty"
+    },
+    {
+     "folder": "849022 Wakeshima Kanon - Foul Play ni Kurari (TV Size)",
+     "usable": true,
+     "file": "Wakeshima Kanon - Foul Play ni Kurari (TV Size) (Uta) [AncuL's Insane].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 20.6,
+     "under_s": 0.0,
+     "duration_s": 90.1,
+     "precision": null,
+     "chance": 0.2289
+    },
+    {
+     "folder": "2390042",
+     "usable": false,
+     "why": "no kiai in any difficulty"
+    },
+    {
+     "folder": "537498 Ayase Rie & [- Vanilla -] - haitai but every time it says hai it gets faster",
+     "usable": true,
+     "file": "Ayase Rie & [- Vanilla -] - haitai but every time it says hai it gets faster (jakads) [4K].osu",
+     "chorus_s": 0.0,
+     "kiai_s": 10.2,
+     "under_s": 0.0,
+     "duration_s": 30.4,
+     "precision": null,
+     "chance": 0.334
+    }
+   ],
+   "summary": {
+    "n": 17,
+    "folders": 100,
+    "lit": 87,
+    "precision": 39.1,
+    "chance": 24.9,
+    "lift": 14.2,
+    "pass": false
+   }
+  }
+ }
+}
